@@ -165,7 +165,3 @@ This project was built as a **portfolio Power BI project** to:
 **Mustapha Tarfi**  
 📍 Morocco  
 🔗 LinkedIn: [https://www.linkedin.com/in/mustapha-tarfi-1106b5283/](https://www.linkedin.com/in/mustapha-tarfi-1106b5283/)  
-
----
-
-⭐ If you find this project useful, feel free to **star the repository**!
